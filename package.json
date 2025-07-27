@@ -1,0 +1,14 @@
+{
+  "name": "node-markov-exercise",
+  "version": "1.0.0",
+  "description": "Testing with Jest and Node Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Daniels",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}
